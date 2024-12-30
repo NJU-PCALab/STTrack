@@ -1,4 +1,4 @@
-# Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking [AAAI2024]
+# Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking [AAAI2025]
 Official implementation of [**STTrack**](https://arxiv.org/abs/2412.15691), including models and training&testing codes.
 
 [Models & Raw Results](https://drive.google.com/drive/folders/1k7_S0AAyMFSBAem87AJhLjg8Sq1v5VgN?usp=drive_link)(Google Driver) [Models & Raw Results](https://pan.baidu.com/s/1TR4qnWtXS140pddngcn_-w 
