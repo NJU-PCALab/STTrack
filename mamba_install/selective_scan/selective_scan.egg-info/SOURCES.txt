@@ -1,0 +1,13 @@
+setup.py
+csrc/selective_scan/selective_scan.cpp
+csrc/selective_scan/selective_scan_core.cu
+csrc/selective_scan/selective_scan_core_fwd2.cu
+csrc/selective_scan/selective_scan_core_fwd3.cu
+csrc/selective_scan/selective_scan_core_fwd4.cu
+selective_scan/__init__.py
+selective_scan/selective_scan_interface.py
+selective_scan.egg-info/PKG-INFO
+selective_scan.egg-info/SOURCES.txt
+selective_scan.egg-info/dependency_links.txt
+selective_scan.egg-info/requires.txt
+selective_scan.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple, http://pypi.douban.com/simple/
+Requirement already satisfied: causal_conv1d in /root/anaconda3/envs/tracking/lib/python3.8/site-packages (1.0.0)
+Requirement already satisfied: torch in /root/anaconda3/envs/tracking/lib/python3.8/site-packages (from causal_conv1d) (1.13.1)
+Requirement already satisfied: packaging in /root/anaconda3/envs/tracking/lib/python3.8/site-packages (from causal_conv1d) (24.0)
+Requirement already satisfied: ninja in /root/anaconda3/envs/tracking/lib/python3.8/site-packages (from causal_conv1d) (1.11.1.1)
+Requirement already satisfied: typing_extensions in /root/anaconda3/envs/tracking/lib/python3.8/site-packages (from torch->causal_conv1d) (4.9.0)
