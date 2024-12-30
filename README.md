@@ -22,15 +22,19 @@ Official implementation of [**STTrack**](https://arxiv.org/abs/2412.15691), incl
 
 
 ### On RGB-T tracking benchmarks
-<center><img width="50%" alt="" src="assets/results_rgbt.png"/></center>
-
+<div style="text-align:center;">
+  <img width="50%" alt="" src="assets/results_rgbt.png"/>
+</div>
 
 ### On RGB-D tracking benchmarks
-<center><img width="50%" alt="" src="assets/results_rgbd.png"/></center>
-
+<div style="text-align:center;">
+  <img width="50%" alt="" src="assets/results_rgbd.png"/>
+</div>
 
 ### On RGB-E tracking benchmark
-<center><img width="80%" alt="" src="assets/results_rgbe.png"/></center>
+<div style="text-align:center;">
+  <img width="80%" alt="" src="assets/results_rgbe.png"/>
+</div>
 
 ## Usage
 ### Installation
