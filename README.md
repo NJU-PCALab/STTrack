@@ -134,6 +134,6 @@ If you find STTrack is helpful for your research, please consider citing:
 ```
 
 ## Acknowledgment
-- This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) and [ViPT](https://github.com/jiawen-zhu/ViPT) which are an excellent work.
+- This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) and [ViPT](https://github.com/jiawen-zhu/ViPT) which are excellent works.
 - We thank for the [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
 
