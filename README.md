@@ -11,7 +11,7 @@ Official implementation of [**STTrack**](https://arxiv.org/abs/2412.15691), incl
 
 
 ## Introduction
-- A new unified multimodal spatial-temporal tracking tracking framework (e.g. RGB-D, RGB-T, and RGB-E Tracking).
+- A new unified multimodal spatial-temporal tracking framework (e.g. RGB-D, RGB-T, and RGB-E Tracking).
 
 - STTrack excels in multiple multimodal tracking tasks. We hope it will garner more attention for multimodal tracking.
 
