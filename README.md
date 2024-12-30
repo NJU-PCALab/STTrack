@@ -18,10 +18,10 @@ Official implementation of [**STTrack**](https://arxiv.org/abs/2412.15691), incl
 
 <center><img width="90%" alt="" src="assets/structure.png"/></center>
 
-## Results
+ <!-- Results -->
 
 
-### On RGB-T tracking benchmarks
+<!-- ### On RGB-T tracking benchmarks
 <div style="text-align:center;">
   <img width="50%" alt="" src="assets/results_rgbt.png"/>
 </div>
@@ -34,7 +34,13 @@ Official implementation of [**STTrack**](https://arxiv.org/abs/2412.15691), incl
 ### On RGB-E tracking benchmark
 <div style="text-align:center;">
   <img width="80%" alt="" src="assets/results_rgbe.png"/>
-</div>
+</div> -->
+## Strong Performance
+| Tracker | LasHeR | RGBT234 | VisEvent | DepthTrack | VOT22RGBD|
+|:-----------:|:------------:|:-----------:|:-----------------:|:-----------:|:-----------:|
+| STTrack | 60.3 | 66.7 | 61.9 |  77.6 | 63.3 | 
+
+
 
 ## Usage
 ### Installation
