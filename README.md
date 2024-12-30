@@ -26,7 +26,7 @@ Official implementation of [**STTrack**](https://arxiv.org/abs/2412.15691), incl
 
 
 ### On RGB-D tracking benchmarks
-<center><img width="50%" alt="" src="assets/results_rgbd.PNG"/></center>
+<center><img width="50%" alt="" src="assets/results_rgbd.png"/></center>
 
 
 ### On RGB-E tracking benchmark
