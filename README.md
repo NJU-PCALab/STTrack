@@ -125,10 +125,13 @@ We refer you to [VisEvent_SOT_Benchmark](https://github.com/wangxiao5791509/VisE
 If you find STTrack is helpful for your research, please consider citing:
 
 ```bibtex
-@inproceedings{STTrack,
-  title={Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking},
-  author={Xiantao, Hu and Ying, Tai and Xu, Zhao and Chen, Zhao and Zhenyu, Zhang and Jun, Li and Bineng, Zhong and Jian, Yang},
-  booktitle={AAAI},
+@inproceedings{sttrack,
+  title={Exploiting multimodal spatial-temporal patterns for video object tracking},
+  author={Hu, Xiantao and Tai, Ying and Zhao, Xu and Zhao, Chen and Zhang, Zhenyu and Li, Jun and Zhong, Bineng and Yang, Jian},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={4},
+  pages={3581--3589},
   year={2025}
 }
 ```
