@@ -105,8 +105,8 @@ class STTrack(nn.Module):
 
             track_query_now_x = temp_x[:,-self.track_query_len:,:]
             track_query_now_r = temp_r[:,-self.track_query_len:,:]
-            track_query_before[0] = track_query_before[0][:,:-1]
-            track_query_before[1] = track_query_before[1][:,:-1]
+            track_query_before[0] = track_query_before[0][:,-self.track_beforequery_len-1:]
+            track_query_before[1] = track_query_before[1][:,-self.track_beforequery_len-1:]
             if track_query_before[0].size(0) != B:
                 track_query_before[0] = track_query_before[0].expand(B,-1,-1)
                 track_query_before[1] = track_query_before[1].expand(B,-1,-1)
